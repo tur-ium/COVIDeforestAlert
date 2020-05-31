@@ -1,5 +1,5 @@
 ## Welcome to __COVIDeforestAlert__, a NASA Space Apps Challenge entry from Team __COVID Forest Watch__
-//Challenge categary: SDGs and COVID-19
+//Challenge category: SDGs and COVID-19
 
 ### The Problem
 
