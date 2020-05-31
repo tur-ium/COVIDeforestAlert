@@ -34,7 +34,7 @@ How we used NASA data and socioeconomic data
 
 ### Findings
 
-If we find something, put it here. If we don't find anything, also put it here. 
+See the [Live Code](https://drive.google.com/file/d/1JsWFrlaSRTpoUcufPCYXxbX_h1pY4aAs/view?usp=sharing) on Colaboratory. If the code doesn't run, and you know Python download [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html#installation-problems), download the [notebook](COVIDeforestAlert.ipynb) and run the notebook on your own machine.
 
 ### Thanks
 
