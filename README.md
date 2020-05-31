@@ -35,3 +35,7 @@ How we used NASA data and socioeconomic data
 ### Findings
 
 If we find something, put it here. If we don't find anything, also put it here. 
+
+### Thanks
+
+Our thanks go to Mary Allen of Practical Action, based in Mali, for sharing her advice and experience in Sub-Saharan Africa. Without her we would probably have overlooked remittances and the importance to local people.
