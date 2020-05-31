@@ -22,7 +22,7 @@ How will we make it through the dry season?
 
 The young men, who came back to the village when they lost their jobs, are going  out to gather firewood, you don't know where they found it. They head along the main road north and come back every two hours with huge bales bumping up and down the dirt roads on the back of the motorcycles. The national park is north of the village, but cutting wood there, as it is forbidden. They wouldn't risk it, would they? 
 
-There is a man who came and said he would buy the wood, and gave a higher price than the man making chairs. Maybe they will make a living from the wood? But what if the ranger stops them? Or if they are stopped by corrupt police, or if the few trees are all cut down ? No, no, don't ask these questions. All will be fine?
+There is a man who came and said he would buy the wood, and gave a higher price than the man making chairs. Maybe they will make a living from the wood? But what if the ranger stops them? Or if they are stopped by corrupt police, or if the few trees are all cut down ? No, no, don't ask these questions. All will be fine, I hope.
 
 
 
