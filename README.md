@@ -64,4 +64,4 @@ OR get in touch, arthurdo on rocket chat, arthurdo [at] pm [dot the dot] me
 
 ### Thanks
 
-Our thanks go to Mary Allen of Practical Action, based in Mali, for sharing her advice and experience in Sub-Saharan Africa. Without her we would probably have overlooked remittances and the importance to local people.
+Our thanks go to Mary Allen (Senior Advisor Resilence & Livelihoods, West Africa), based in Mali, for sharing her advice and experience in Sub-Saharan Africa. Without her we would probably have overlooked remittances and the importance to local people.
