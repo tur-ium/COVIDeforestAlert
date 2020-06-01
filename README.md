@@ -5,6 +5,15 @@ Challenge category: SDGs and COVID-19
 
 ## See the [Live Code Dashboard](https://drive.google.com/file/d/1JsWFrlaSRTpoUcufPCYXxbX_h1pY4aAs/view?usp=sharing). 
 
+### How to use COVIDeforestationAlert
+1. Go to the [live version](https://github.com/tur-ium/COVIDeforestAlert/). You may be asked to log in with a Google account*.
+2. Choose a country. Choices: "BRA" (Brazil), "COL" (Colombia), or any 3 letter country code from here https://www.worldatlas.com/aatlas/ctycodes.htm  The country must be close to the equator (within 30 degree north or south), otherwise deforestation data won't be available
+3. Go to ``Runtime`` -> ``Run All`` in the top menu
+4. Scroll down to the bottom of the page to see a graph of deforestation events against number of COVID cases
+We use Python and Jupyter notebook in order to produce the interface
+
+* If this is not an option, you can run the version from [GitHub](https://github.com/tur-ium/COVIDeforestAlert/) on your own computer.
+
 ### The Problem
 
 Conservation International recently reported on their website that an increase in deforestation rates has been seen in countries such as Colombia and Brazil (Conservation International, 2020). Our first aim is to use satellite imagery to test the claims of Conservation International, and explore possible causations of forest change in Brazil and Colombia since the COVID-19 crisis began to affect those regions. 
@@ -46,14 +55,7 @@ We smooth the data for clarity when plotting
 
 All the code is publicly available and can be found as a live version hosted on Google Colabatory, and on [GitHub](https://github.com/tur-ium/COVIDeforestAlert/).
 
-### How to use COVIDeforestationAlert
-1. Go to the [live version](https://github.com/tur-ium/COVIDeforestAlert/). You may be asked to log in with a Google account*.
-2. Choose a country. Choices: "BRA" (Brazil), "COL" (Colombia), or any 3 letter country code from here https://www.worldatlas.com/aatlas/ctycodes.htm  The country must be close to the equator (within 30 degree north or south), otherwise deforestation data won't be available
-3. Go to ``Runtime`` -> ``Run All`` in the top menu
-4. Scroll down to the bottom of the page to see a graph of deforestation events against number of COVID cases
-We use Python and Jupyter notebook in order to produce the interface
 
-* If this is not an option, you can run the version from [GitHub](https://github.com/tur-ium/COVIDeforestAlert/) on your own computer.
 #### Troubleshooting
 
 If the Live Code doesn't run, and you know Python download [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) (Google sign in required, we do not log who accesses), download the [notebook](COVIDeforestAlert.ipynb) and run the notebook on your own machine.
