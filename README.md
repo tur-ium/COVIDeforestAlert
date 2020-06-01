@@ -6,7 +6,7 @@ Challenge category: SDGs and COVID-19
 ## See the [Live Code Dashboard](https://drive.google.com/file/d/1JsWFrlaSRTpoUcufPCYXxbX_h1pY4aAs/view?usp=sharing). 
 
 ### How to use COVIDeforestationAlert
-1. Go to the [live version](https://drive.google.com/file/d/1JsWFrlaSRTpoUcufPCYXxbX_h1pY4aAs/view?usp=sharing). You may be asked to log in with a Google account*.
+1. Go to the [live version](https://drive.google.com/file/d/1JsWFrlaSRTpoUcufPCYXxbX_h1pY4aAs/view?usp=sharing) and click open with Google Colaboratory, at the top. You may be asked to log in with a Google account*.
 2. Choose a country. Choices: "BRA" (Brazil), "COL" (Colombia), or any 3 letter country code from here https://www.worldatlas.com/aatlas/ctycodes.htm  The country must be close to the equator (within 30 degree north or south), otherwise deforestation data won't be available
 3. Go to ``Runtime`` -> ``Run All`` in the top menu
 4. Scroll down to the bottom of the page to see a graph of deforestation events against number of COVID cases
